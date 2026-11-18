@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ site.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.4/css/academicons.min.css">
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="wrapper">
+    <header>
+      <h1>Ingvild Zinober</h1>
+      <img src="profile.webp" alt="Ingvild Zinober" style="width:100%; border-radius:6px;" />
+      <p>Postdoctoral Researcher<br>
+      GREENLOSS (ERC)<br>
+      Sciences Po, Paris<br>
+      <a href="mailto:ingvild.zinober@sciencespo.fr">ingvild.zinober@sciencespo.fr</a></p>
+      <p style="font-size: 26px;">
+        <a href="https://scholar.google.com/citations?user=BTG_3DAAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>&nbsp;
+        <a href="https://www.researchgate.net/profile/Ingvild-Zinober" title="ResearchGate"><i class="ai ai-researchgate"></i></a>&nbsp;
+        <a href="https://orcid.org/0009-0000-4810-830X" title="ORCID"><i class="ai ai-orcid"></i></a>&nbsp;
+        <a href="mailto:ingvild.zinober@sciencespo.fr" title="Email"><i class="fas fa-envelope"></i></a>&nbsp;
+        <a href="https://www.linkedin.com/in/ingvild-zinober-36776381/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>&nbsp;
+        <a href="https://bsky.app/profile/ingvildzinober.bsky.social" title="Bluesky"><i class="fab fa-bluesky"></i></a>&nbsp;
+        <a href="CV.pdf" title="CV"><i class="ai ai-cv"></i></a>
+      </p>
+    </header>
+    <section>
+      {{ content }}
+    </section>
+  </div>
+</body>
+</html>
