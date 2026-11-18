@@ -17,7 +17,7 @@ Methodologically, I specialise in quantitative research, using survey data, expe
 
 ### Work in Progress
 
-- **Political Gender Performativity: Masculinity, Femininity, and Support for Green Politics**. Working paper; manuscript available on request.
+- **Political Gender Performativity: Masculinity, Femininity, and Support for Green Politics**. Working paper. [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BTG_3DAAAAAJ&citation_for_view=BTG_3DAAAAAJ:UeHWp8X0CEIC)
 - **Women in Politics and the Shifting Ideological Gender Gap in Norway** (with T. Jaziri-Arjona). Submitted to journal.
 - **Masculinity, Gender Performance, and Party Choice in Europe** (with A. R. Guildea). Submitted to journal.
 - **Who Pays for the Party? Private Donations to Norwegian Political Parties, 2006–2025** (with N. Zinober). In progress.
