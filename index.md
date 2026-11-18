@@ -12,7 +12,7 @@ Methodologically, I specialise in quantitative research, using survey data, expe
 
 ### Publications
 
-1. **The Green Gender Gap: Environmental Attitudes and Pro-environmental Vote Choice across Europe** (2026). *Electoral Studies*. [doi:10.1016/j.electstud.2026.103062](https://doi.org/10.1016/j.electstud.2026.103062)
+1. **The Green Gender Gap: Environmental Attitudes and Pro-environmental Vote Choice across Europe** (2026). *Electoral Studies*. [doi:10.1016/j.electstud.2026.103062](https://doi.org/10.1016/j.electstud.2026.103062) · [Replication files](https://github.com/IngvildZinober/The-Green-Gender-Gap-Environmental-attitudes-and-pro-environmental-vote-choice-across-Europe)
 2. **The Green Gender Gap in Adolescence: A Case Study of Norway** (2026). *Politics & Gender*. [doi:10.1017/S1743923X26100932](https://doi.org/10.1017/S1743923X26100932)
 
 ### Work in Progress
