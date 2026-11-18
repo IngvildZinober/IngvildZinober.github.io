@@ -26,3 +26,8 @@ Methodologically, I specialise in quantitative research, using survey data, expe
 
 - **Lecturer in Comparative Politics**, Department of Political Science and International Relations, Oslo New University College, 2024–present
 - **Master's Thesis Supervision**, Global Development Studies, Norwegian University of Life Sciences (NMBU), 2026–present
+
+### Peer Review
+
+- European Journal of Political Research (2024)
+- European Societies (2026)
