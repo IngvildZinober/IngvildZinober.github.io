@@ -18,9 +18,9 @@ Methodologically, I specialise in quantitative research, using survey data, expe
 ### Work in Progress
 
 - **Political Gender Performativity: Masculinity, Femininity, and Support for Green Politics**. Working paper. [PDF](https://www.researchgate.net/profile/Ingvild-Zinober/publication/381503066_Political_Gender_Performativity_Masculinity_Femininity_and_Support_for_Green_Politics/links/69b1341c0df0500feff30cd0/Political-Gender-Performativity-Masculinity-Femininity-and-Support-for-Green-Politics.pdf)
-- **Women in Politics and the Shifting Ideological Gender Gap in Norway** (with T. Jaziri-Arjona). Submitted to journal.
+- **Women in Politics and the Shifting Ideological Gender Gap in Norway** (with [T. Jaziri-Arjona](https://tarekjaziriarjona.github.io/)). Submitted to journal.
 - **Masculinity, Gender Performance, and Party Choice in Europe** (with A. R. Guildea). Submitted to journal.
-- **Who Pays for the Party? Private Donations to Norwegian Political Parties, 2006–2025** (with N. Zinober). In progress.
+- **Who Pays for the Party? Private Donations to Norwegian Political Parties, 2006–2025** (with [N. Zinober](https://ninnizinober.github.io/)). In progress.
 
 ### Teaching
 
